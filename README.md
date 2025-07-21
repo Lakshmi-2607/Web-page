@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <title>Profile Card</title>
   <link rel="stylesheet" href="Assignment.css">
-  <script>
+  <style>
     * {
   box-sizing: border-box;
 }
@@ -70,7 +70,7 @@ h2 {
   background-color: #c4f82a;
   color: black;
 }
-  </script>
+  </style>
 </head>
 <body>
   <div class="container">
