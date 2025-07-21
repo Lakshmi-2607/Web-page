@@ -1,0 +1,78 @@
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+#box1 {
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+} 
+#box2 {
+    background-color: aqua;
+    margin-top:10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#box3 {
+    background-color: aquamarine;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+#box4 {
+    background-color: antiquewhite;
+    padding: 10px 20px 30px 10px; Clock Wise Direction
+    padding: 10px 20px; Top/Bottom and Left/Right
+    margin:10px 20px 30px 40px;
+    margin: 20px 40px; Top/Bottom and Left/Right
+    border:2px black solid;
+    box-sizing: border-box;
+} 
+#paragraph {
+
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 10px; 
+    margin: auto;
+}
+
+#flexBox {
+    display: flex;
+    color:blue;
+    flex-flow: row;
+    flex-basis: auto;
+    column-gap: 20px;
+    row-gap: 20px;
+    width: 400px;
+    height: 400px;
+    flex-wrap: wrap;
+    border: 2px solid red;
+    justify-content: center;
+    align-items:center;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#box1 {
+    background-color: blueviolet;
+}
+#box2 {
+    background-color: antiquewhite;
+}
+
+#box3 {
+    background-color: aquamarine;
+}
+
+#box4 {
+    background-color: brown;
+}
+
+#box5 {
+    background-color: cadetblue;
+}
